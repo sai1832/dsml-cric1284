@@ -1,0 +1,4 @@
+This is my first document which is used to create learning the git and github 
+firt i downloaded the Git hub in desktop next i created a account in github 
+i used the Git and Github to show case our projects in structued 
+we can also give link access to any body by making the link as global
